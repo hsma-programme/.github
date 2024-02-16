@@ -8,6 +8,8 @@ But don't fret if you're not able to apply formally to the course - you can foll
 
 All of our training materials are made available Free and Open Source, with most of the content provided under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International [cc-by-nc-sa] License, meaning you are welcome to copy, share and adapt most of our materials - though it's worth checking the individual licence on the repositories. 
 
+HSMA has now run for several rounds - archived repositories relate to an earlier run of the programme, but are perfectly fine to refer to if there isn't an active repository covering the same topic! 
+
 ### HSMA Projects
 
 HSMA is all about upskilling people to be able to undertake their own applied data science and operational modelling projects - below are just a handful of the projects our fabulous HSMAs have produced over the years!
