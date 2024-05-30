@@ -10,6 +10,14 @@ All of our training materials are made available Free and Open Source, with most
 
 HSMA has now run for several rounds - archived repositories relate to an earlier run of the programme, but are perfectly fine to refer to if there isn't an active repository covering the same topic! 
 
+### HSMA Books
+
+We are also producing ebooks of some of our course content. 
+
+Check out our [Python book](https://hsma-programme.github.io/hsma6_intro_to_python_book/), which is designed for absolute beginners to programming in the Python programming language. It will take you from your first code, through data structures, conditional logic, loops, tabular data manipulation and making graphs. It can also be a useful resource for intermediate programmers who haven't previously done object-oriented programming - making it a good primer before going onto our DES book, where we will be writing object-oriented code.
+
+You can check out the [Discrete event simulation book](https://hsma-programme.github.io/hsma6_des_book/) to find out all about what discrete event simulation is and how to use the simpy package to create your first simulation model in Python. The book then covers a range of advanced concepts that you may need for real-world models.  
+
 ### HSMA Projects
 
 HSMA is all about upskilling people to be able to undertake their own applied data science and operational modelling projects - below are just a handful of the projects our fabulous HSMAs have produced over the years!
