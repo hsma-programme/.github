@@ -20,6 +20,8 @@ You can check out the [Discrete event simulation book](https://hsma-programme.gi
 
 Our [geographic visualisation and optimization book](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/) is in its early stages of development as well - it covers plotting in QGIS and Python, as well as facility location problems, but check back in late 2024 for chapters on multiobjective optimization algorithms and geospatial statistics and outlier detection. 
 
+You can also check out our [collection of example notebooks on the topic of machine learning](https://hsma-programme.github.io/h6_module4_notebooks/).
+
 ### HSMA Projects
 
 HSMA is all about upskilling people to be able to undertake their own applied data science and operational modelling projects - below are just a handful of the projects our fabulous HSMAs have produced over the years!
