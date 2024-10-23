@@ -22,6 +22,8 @@ Our [geographic visualisation and optimization book](https://hsma-programme.gith
 
 You can also check out our [collection of example notebooks on the topic of machine learning](https://hsma-programme.github.io/h6_module4_notebooks/).
 
+Finally, our [Streamlit Book](https://bergam0t.github.io/streamlit_book/) introduces you to writing and deploying web apps using the beginner-friendly but powerful Streamlit framework - you'll have an interactive and professional-looking web app up in no time! 
+
 ### HSMA Projects
 
 HSMA is all about upskilling people to be able to undertake their own applied data science and operational modelling projects - below are just a handful of the projects our fabulous HSMAs have produced over the years!
