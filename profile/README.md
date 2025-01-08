@@ -2,7 +2,7 @@ Welcome to the home of the Health Service Modelling Associates (HSMA) programme 
 
 Our GitHub is where you can find all of our slides, code examples, and coding exercises. There are also standalone teaching resources like our [Discrete Event Simulation Playground](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit).
 
-HSMA is a 15-month programme of training and mentoring for people working in health, social care and policing in England, covering a range of data science and operational research techniques. We take participants all the way from the basics up to Python through to using discrete event simulation, geographic optimization, machine learning, agent-based simulation, and much more. You can find out more about the programme on [our website](https://sites.google.com/nihr.ac.uk/hsma/introduction-to-hsma).
+HSMA is a 15-month programme of training and mentoring for people working in health, social care and policing in England, covering a range of data science and operational research techniques. We take participants all the way from the basics up to Python through to using discrete event simulation, geographic optimization, machine learning, agent-based simulation, and much more. You can find out more about the programme on [our website](https://hsma-programme.github.io/hsma_site/).
 
 But don't fret if you're not able to apply formally to the course - you can follow along with everything here, and our [Youtube Channel](https://www.youtube.com/@hsma/playlists) houses the the lectures that go with each of these repositories. 
 
