@@ -22,7 +22,7 @@ Our [geographic visualisation and optimization book](https://hsma-programme.gith
 
 You can also check out our [collection of example notebooks on the topic of machine learning](https://hsma-programme.github.io/h6_module4_notebooks/).
 
-Finally, our [Streamlit Book](https://bergam0t.github.io/streamlit_book/) introduces you to writing and deploying web apps using the beginner-friendly but powerful Streamlit framework - you'll have an interactive and professional-looking web app up in no time! 
+Finally, our [Streamlit Book](https://webapps.hsma.co.uk) introduces you to writing and deploying web apps using the beginner-friendly but powerful Streamlit framework - you'll have an interactive and professional-looking web app up in no time! 
 
 ### HSMA Projects
 
@@ -39,7 +39,12 @@ HSMA is all about upskilling people to be able to undertake their own applied da
 | **An open source tool to model waiting lists for elective surgery**                                                                                  | [Repository](https://github.com/gasman-dom/gstt_hands_waitlist_st)            | [Video](https://youtu.be/prKoVH2DeyU?si=6FdApHlf1Lz35XEF) | [App](https://gstt-hands-waitlist.streamlit.app/)                         | Streamlit;  Discrete Event Simulation              |
 | **An open source tool to help ICBs allocate additional discretionary funding to GP surgeries consistently and equitably**                            | [Repository](https://github.com/pete4nhs/eFIT-tool)                           |                                                           | [App](https://www.heec.co.uk/extra-funding-allocation-inequality-tool-efit/) | Streamlit;  Automation; Health Equity              |
 
-You can find out more about our projects on Youtube for [HSMA 3](https://www.youtube.com/playlist?list=PLgHO2TgIJXdnAWY7tGGPQLWYAjn0tgG_A), [HSMA 4](https://www.youtube.com/playlist?list=PLgHO2TgIJXdn0k4y56xtM-VpcHU_5RJUN) or [HSMA 5](https://www.youtube.com/playlist?list=PLgHO2TgIJXdl1MvfkwCGJ6n8_1EYCSzex), or read about them on our [projects page](https://sites.google.com/nihr.ac.uk/hsma/projects-news-events/projects).
+You can find out more about our projects on on our project pages
+
+- [projects by method](https://hsma.co.uk/previous_projects/projects_by_methods.html)
+- [projects by area of care](https://hsma.co.uk/previous_projects/projects_by_service_area.html)
+- [projects by HSMA cohort](https://hsma.co.uk/previous_projects/projects_by_cohort.html)
+- [projects with shared code](https://hsma.co.uk/previous_projects/projects_with_code.html)
 
 ### Acknowledgements
 HSMA is a programme that is conceived, developed, and is supported by the [NIHR Applied Research Collaboration South West Peninsula (PenARC)](https://arc-swp.nihr.ac.uk/) and supported by funding from the [NHS Digital Academy](https://arc-swp.nihr.ac.uk/news/330000-awarded-to-innovative-south-west-data-modelling-programme/). 
