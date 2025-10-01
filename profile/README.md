@@ -4,6 +4,10 @@ Our GitHub is where you can find all of our slides, code examples, and coding ex
 
 If you are looking for our packages, such as the DES animation package vidigi, you can find them over in our HSMA tools organisation: [github.com/hsma-tools](https://github.com/hsma-tools)
 
+---
+
+### What is HSMA?
+
 HSMA is a 15-month programme of training and mentoring for people working in health, social care and policing in England, covering a range of data science and operational research techniques. We take participants all the way from the basics up to Python through to using discrete event simulation, geographic optimization, machine learning, agent-based simulation, and much more. You can find out more about the programme on [our website](https://hsma-programme.github.io/hsma_site/).
 
 But don't fret if you're not able to apply formally to the course - you can follow along with everything here, and our [Youtube Channel](https://www.youtube.com/@hsma/playlists) houses the the lectures that go with each of these repositories. 
